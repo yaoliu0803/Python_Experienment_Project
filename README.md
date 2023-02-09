@@ -6,5 +6,5 @@
 
 记录本人在学习过程中的代码实现
 
-* 1.图片转字符画：[图片转字符画实现](https://github.com/yaoliu0803/Python_Experienment_Project/tree/master/ex_01)
-
+* 1.python实现图片转字符画：[图片转字符画实现](ex_01)
+* 2.python实现2048游戏: [2048游戏](ex_02)
