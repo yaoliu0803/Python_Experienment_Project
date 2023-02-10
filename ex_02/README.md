@@ -16,7 +16,7 @@
 
 你会发现 2048 游戏很容易就能分解成几种状态的转换。
 
-![image](../image/FSM.png)
+![image](../labfile_image/FSM.png)
 
 state 存储当前状态， state_actions 这个词典变量作为状态转换的规则，它的 key 是状态，value 是返回下一个状态的函数：
 * Init: init()

@@ -43,7 +43,7 @@ def img_process(file_name="test.jpg", width=80, height=80, out_file_name="test.t
 
 
 if __name__ == '__main__':
-    img_path = "../image/ascii_dora.png"
+    img_path = "../labfile_image/ascii_dora.png"
     # 在ex_01文件夹下创建文本，保存字符画
     out_filename = "test.txt"
     img_process(file_name=img_path, out_file_name=out_filename)
